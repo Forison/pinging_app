@@ -1,1 +1,1 @@
-# pinging_app
+# pinging_app with Resst-client
